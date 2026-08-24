@@ -51,3 +51,6 @@ Ukas liste:
 - [ ] sove
 - [x] sitte på rumpen
 - [ ] puste
+
+Hvis du vill ha en \* i \*markdown\* uten at den tror at det er formatering,  
+sett en \ forand den
