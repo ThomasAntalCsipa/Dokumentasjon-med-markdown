@@ -54,3 +54,8 @@ Ukas liste:
 
 Hvis du vill ha en \* i \*markdown\* uten at den tror at det er formatering,  
 sett en \ forand den
+
+Fagtekst:
+A
+
+[^1]: Ja det er sant.

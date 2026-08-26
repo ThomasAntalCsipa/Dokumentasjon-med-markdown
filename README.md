@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/Cool_dudes-%230000f0)
+
 ### Prosjekt lag en HTML nettside
 
 Mit mål er å lage en HTML nettside som jeg selv har skrevet 100% hjelp fra Brage
