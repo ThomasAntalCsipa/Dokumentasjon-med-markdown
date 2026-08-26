@@ -56,8 +56,8 @@ Hvis du vill ha en \* i \*markdown\* uten at den tror at det er formatering,
 sett en \ forand den
 
 Fagtekst:
-e er et tall[^1].
-Innenfor matematikk så er e ett tall som brukes til naturlig vekst.
+e er et tall[^1].  
+Innenfor matematikk så er e ett tall som brukes til naturlig vekst.  
 Formelelen til e = limit n->∞ (1+1/n)^n[^2]
 
 [^1]: Ja det er sant.
