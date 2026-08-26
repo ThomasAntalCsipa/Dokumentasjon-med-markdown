@@ -56,6 +56,6 @@ Hvis du vill ha en \* i \*markdown\* uten at den tror at det er formatering,
 sett en \ forand den
 
 Fagtekst:
-A
+E er et tall[^1].
 
 [^1]: Ja det er sant.
