@@ -30,9 +30,12 @@ Mål:
 
 | Språk    | Styrke        | Svakhet                                         |
 |-         |-              |-                                                |
-|Barin fuck|Turing complete|Man må ødelege hjernen sin for å kunne forstå den|
+|Brain fuck|Turing complete|Man må ødelege hjernen sin for å kunne forstå den|
 |Html      |Enkel          |Ikke turing complete                             |
 |Scrach    |Enkel          |Gen Alpha                                        |
+
+[!NOTE]
+Dette er mengingen min
 
 ```python
 import BallThrower from BallDoohickeyMachines
@@ -47,19 +50,26 @@ BallThrower.throw( )
 ```
 
 Ukas liste:
-- [x] game
+- [x] ~~game~~
 - [ ] sove
-- [x] sitte på rumpen
+- [x] ~~sitte på rumpen~~
 - [ ] puste
 
 Hvis du vill ha en \* i \*markdown\* uten at den tror at det er formatering,  
 sett en \ forand den
 
-Fagtekst:
+Hva måtte man skrive før * for at Markdown ikke skule tro at det formatering?
+<details>
+    <summary>Svar</summary>
+    \
+</details>
+
+Fagtekst:  
 e er et tall[^1].  
 Innenfor matematikk så er e ett tall som brukes til naturlig vekst.  
 Formelelen til e = limit n->∞ (1+1/n)^n[^2]
 
-[^1]: Ja det er sant.
+[^1]: Ja, det er sant.
 
 [^2]: Trust me bro.
+
