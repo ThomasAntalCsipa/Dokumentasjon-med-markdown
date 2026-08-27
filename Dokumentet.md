@@ -1,13 +1,15 @@
-# H1
+# H
 
-## H2
+## He
 
-### H3
+### Hei
 
-**Hei**
-Jeg heter Thomas Antal
-Jeg er *kul*
-Takk
+Jeg heter **Thomas Antal**.  
+Jeg er *kul*.  
+Takk.
+
+>[!IMPORTANT]
+>Han heter Thomas Antal
 
 Hobyer:
 * Basket
@@ -26,7 +28,7 @@ Mål:
 
 >Velg selv tempo — alle skal minimum gjennom grønt nivå denne uka. Gult og rødt kan fortsette inn i neste uke for de som ikke rekker alt. Huk av etter hvert som oppgavene er gjort (dette er faktiske GitHub-sjekklister — fungerer også hvis du limer arket inn i et .md-dokument).
 
--Cecilie
+-Cecilie Hansen
 
 ---
 
@@ -59,8 +61,11 @@ Ukas liste:
 - [x] ~~sitte på rumpen~~
 - [ ] puste
 
-Hvis du vill ha en \* i \*markdown\* uten at den tror at det er formatering,  
-sett en \ forand den
+[Kul README](README.md)
+
+Hvis du vill ha en \* i \*Markdown\* uten at den tror at det er formatering,  
+sett en \ forand den.  
+Å sette \ foran vilken som helst formatering skrur formateringen av faktisk.
 
 Hva måtte man skrive før * for at Markdown ikke skule tro at det formatering?
 <details>
@@ -77,3 +82,7 @@ Formelelen til e = limit n->∞ (1+1/n)^n[^2]
 
 [^2]: Trust me bro.
 
+Forskjelen mellom vanlig Markdown og Github smakende Markdown er:  
+Vanlig Markdown er gamelt-ish og enkel nokk.  
+Github smakende Markdown har mere ting som er nyttig for spesefikt Github.  
+Vanlig Markdown er mer et solid rameverk enn noe som er alt og gjør alt.

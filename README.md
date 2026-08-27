@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/badge%20not%20found?label=404)
 ![Static Badge](https://img.shields.io/badge/Cool_dudes-%230000f0)
 
 ### Prosjekt lag en HTML nettside
