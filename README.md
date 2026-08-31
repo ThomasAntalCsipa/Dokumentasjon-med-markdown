@@ -3,7 +3,7 @@
 
 ### Prosjekt lag en HTML nettside
 
-Mit mål er å lage en HTML nettside som jeg selv har skrevet 100% hjelp fra Brage
+Mit mål er å lage en HTML nettside som jeg selv har skrevet med 100% uten hjelp fra Brage
 
 For å laste ned nettsiden:
 1. Trykk på den grønne rektangelen der det står "<>code"
