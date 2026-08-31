@@ -86,3 +86,5 @@ Forskjelen mellom vanlig Markdown og Github smakende Markdown er:
 Vanlig Markdown er gamelt-ish og enkel nokk.  
 Github smakende Markdown har mere ting som er nyttig for spesefikt Github.  
 Vanlig Markdown er mer et solid rameverk enn noe som er alt og gjør alt.
+
+[TACo_README_mal](TACo_README_mal.md)
